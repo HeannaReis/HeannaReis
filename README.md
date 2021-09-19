@@ -1,5 +1,4 @@
-
-- 👋 Hi, I’m @HeannaReis
+## Hi, I’m HeannaReis
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -34,6 +33,11 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="HeannaReis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+***
+  
+  Abaixo você encontra um conjunto de gráficos que demonstram os caminhos que você pode seguir e as tecnologias que você precisa adotar para se tornar um front-end, back-end ou devops. Esses gráficos você encontra em [roadmap.sh](http://roadmap.sh)	e foram criados para dar uma ajudar a comunidade, dando uma perspectiva e uma direção do camminho que pode ser trilhado para se tornar um desenvolvedor moderno em 2021
+  
+***
   <h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
 
 > The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
@@ -44,26 +48,20 @@ You can click the Preview link to take a look at your changes.
 
 ***
 
-If you think that these can be improved in any way, please do suggest.
+O que você acha desse roteiro ? Quantas caixinhas você já validou nos seus conhecimentos ?
 
-## Introduction
+## Introdução ao roteiro de Desenvolvedor Web 2021.
  <div style="display: inline_block"><br>
- <h2>
-   Introdução ao roteiro de Desenvolvedor Web 2021.<br>
-  <img align="center" alt="HennaReis-intro" src="https://github.com/kamranahmedse/developer-roadmap/blob/master/img/intro.png?v=2021"/>
+ <img align="center" alt="HennaReis-intro" src="https://github.com/kamranahmedse/developer-roadmap/blob/master/img/intro.png?v=2021"/>
 </div>
   
-  <div style="display: inline_block"><br>
- <h2>
-   Frontend<br>
-   Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2021.<br>
+## Frontend, Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2021.<br>
+  <div style="display: inline_block">
   <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/frontend.png"/>
   </div> 
  
- <div style="display: inline_block"><br>
- <h2>
-   Backend<br>
-   Guia passo a passo para se tornar um desenvolvedor Backend moderno em 2021.<br>
+  ## Backend - Guia passo a passo para se tornar um desenvolvedor Backend moderno em 2021.
+ <div style="display: inline_block">
   <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/backend.png"/>
 </div>
   
