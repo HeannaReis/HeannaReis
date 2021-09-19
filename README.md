@@ -1,4 +1,5 @@
 ## Hi, I’m HeannaReis
+- :brazil: I'Live in Brasil 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -11,8 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<div> 
-  
+
+
+<div>   
   <a href="https://www.instagram.com/heannareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,22 +35,25 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="HeannaReis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-***
   
-  Abaixo você encontra um conjunto de gráficos que demonstram os caminhos que você pode seguir e as tecnologias que você precisa adotar para se tornar um front-end, back-end ou devops. Esses gráficos você encontra em [roadmap.sh](http://roadmap.sh)	e foram criados para dar uma ajudar a comunidade, dando uma perspectiva e uma direção do camminho que pode ser trilhado para se tornar um desenvolvedor moderno em 2021
+<div>
+  <h3 align="center"><strong>O que as Guias Devops representam ?</strong></h3>   
   
-***
-  <h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
+> Abaixo você encontra um conjunto de gráficos que demonstram os caminhos que você pode seguir e as tecnologias que você precisa adotar para se tornar um front-end, back-end ou devops. Os Gráficos foram criados para ajudar a comunidade Devops, dando perspectiva e direção ao camminho a ser trilhado para se tornar um desenvolvedor moderno em 2021.
+  
+  <h3 align="center"><strong>Objetivos do Roteiro</strong></h3>
 
-> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+> O objetivo desses roteiros é dar a você uma ideia sobre a paisagem e orientá-lo se você estiver confuso sobre o que aprender a seguir e não encorajá-lo a escolher o que é moderno e moderno. Você deve compreender melhor por que uma ferramenta seria mais adequada para alguns casos do que a outra e lembre-se de que estar na moda nunca significa mais adequada para o trabalho.
 
-<h3 align="center"><strong>Note to Beginners</strong></h3>
+<h3 align="center"><strong>Nota pra Iniciantes</strong></h3>
 
-> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2021 release of the Backend and DevOps roadmaps.
+> Esses roteiros abrangem tudo o que há para aprender sobre os caminhos listados abaixo. Não se sinta sobrecarregado, você não precisa aprender tudo no começo se estiver apenas começando. Roadmap estão trabalhando nas versões para iniciantes deles e irão lançá-los logo após termino do lançamento de 2021 dos roadmaps de Backend e DevOps.
 
-***
 
-O que você acha desse roteiro ? Quantas caixinhas você já validou nos seus conhecimentos ?
+ <h3 align="center"><strong>O que você acha desse roteiro ?</strong></h3>
+  
+> Quantas caixinhas você já validou nos seus conhecimentos ?
+  </div>
 
 ## Introdução ao roteiro de Desenvolvedor Web 2021.
  <div style="display: inline_block"><br>
@@ -71,3 +76,11 @@ O que você acha desse roteiro ? Quantas caixinhas você já validou nos seus co
    Guia passo a passo para se tornar um Devops, SRE ou qualquer outra função de operações em 2021.<br>
   <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/devops.png"/>
   </div> 
+
+  
+Se você acha que algum roteiro pode ser melhorado, entre em contato com o criador.
+  <li><a href="https://roadmap.sh" target="_blank"> Roadmap.sh </a></li>
+  <li><a href="https://github.com/kamranahmedse/" target="_blank"> Github </a></li>
+  
+  
+  
