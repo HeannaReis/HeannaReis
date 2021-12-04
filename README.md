@@ -63,10 +63,7 @@ You can click the Preview link to take a look at your changes.
 > Quais caixinhas você já validou nos seus conhecimentos ?<h2>
    </div>
 
-## Introdução ao roteiro de Desenvolvedor Web 2021.
- <div style="display: inline_block"><br>
- <img align="center" alt="HennaReis-intro" src="https://github.com/kamranahmedse/developer-roadmap/blob/master/img/intro.png?v=2021"/>
-</div>
+## Introdução ao roteiro de Desenvolvedor Web 2021 Conforme Roadmap.sh.
   
 ## Frontend, Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2021.<br>
   <div style="display: inline_block">
