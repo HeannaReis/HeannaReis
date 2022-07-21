@@ -9,12 +9,10 @@
 <!---
 HeannaReis/HeannaReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-
 --->
 
 ##
-<div style="display: inline_block"> Conhecimentos <br><h2>
+<div style="display: inline_block"> Hard Skills <br><h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,html,css,js,react,nodejs,php,cs,dotnet,mysql,postgres,bash,linux" />
