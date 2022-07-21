@@ -15,6 +15,12 @@ You can click the Preview link to take a look at your changes.
 
 ##
 <div style="display: inline_block"> Conhecimentos <br><h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,c#,mysql,bash,linux" />
+  </a>
+</p>
+
   <img align="center" alt="HeannReis-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HeannaReis-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HennaReis-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
