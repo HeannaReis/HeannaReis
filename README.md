@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 </div>
 
+
 <div>
   <a href="https://github.com/HeannaReis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeannaReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -78,3 +79,6 @@ Se você acha que algum roteiro pode ser melhorado, entre em contato com o criad
   <li><a href="https://github.com/kamranahmedse/" target="_blank"> Github </a></li>
   
   ##
+[![Star](https://img.shields.io/github/stars/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/stargazers)
+[![Forks](https://img.shields.io/github/forks/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/forks)
+[![GitHub Issues](https://img.shields.io/github/issues/HeannaReis/HeannaReis?style=social)](https://github.com/HeannaReis/HeannaReis/issues/)
