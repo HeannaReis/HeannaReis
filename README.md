@@ -1,10 +1,14 @@
+<h1 align="center">Hi 👋, I'm HeannaReis</h1>
+<h3 align="center">My passion is software developer</h3>
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-## Hi, I’m HeannaReis
-- :brazil: I'Live in Brasil 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeannaReis&label=Profile%20views&color=0e75b6&style=flat" alt="HeannaReis" /> </p>
+
+- :brazil: I live in Brazil.
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning new technologies and improving my coding skills.
+- 💞️ I’m looking to collaborate on open-source projects and exciting software development initiatives.
+- 📫 You can reach me via [email](heannareis@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joel-heanna-reis/).
 
 <!---
 HeannaReis/HeannaReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ##
-<div style="display: inline_block"> Hard Skills <br><h2>
+<div style="display: inline_block"> Skills and Tools <br><h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,html,css,js,react,nodejs,php,cs,dotnet,mysql,postgres,bash,linux" />
@@ -23,23 +27,36 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/HeannaReis">
+    <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeannaReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeannaReis&layout=compact&langs_count=7&theme=dracula"/>
+    </p>
 </div>
- 
-##
-  <div style="display: inline_block"> Contatos e Redes Sociais <br><h2>   
-  <a href="https://www.instagram.com/heannareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ ##    
+ <div>
+   <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HeannaReis&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophy Image">
+  </p>
   </div>
 
+##
+<div align="center">
+  <p>Contatos e Redes Sociais</p>
+  <p>
+    <a href="https://www.instagram.com/heannareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </p>
+</div>
 
+
+##  
 <div>
   <h3 align="center"><strong>O que as Guias Devops representam ?</strong></h3>   
   
-> Abaixo você encontra um conjunto de gráficos que demonstram os caminhos que você pode seguir e as tecnologias que você precisa adotar para se tornar um front-end, back-end ou devops. Os Gráficos foram criados para ajudar a comunidade Devops, dando perspectiva e direção ao camminho a ser trilhado para se tornar um desenvolvedor moderno em 2021.
+> Abaixo você encontra um conjunto de gráficos que demonstram os caminhos que você pode seguir e as tecnologias que você precisa adotar para se tornar um front-end, back-end ou devops. Os Gráficos foram criados para ajudar a comunidade Devops, dando perspectiva e direção ao camminho a ser trilhado para se tornar um desenvolvedor moderno em 2023.
    
  <h3 align="center"><strong>Objetivos do Roteiro</strong></h3>
 
@@ -47,29 +64,29 @@ You can click the Preview link to take a look at your changes.
   
 <h3 align="center"><strong>Nota pra Iniciantes</strong></h3>
 
-> Esses roteiros abrangem tudo o que há para aprender sobre os caminhos listados abaixo. Não se sinta sobrecarregado, você não precisa aprender tudo no começo se estiver apenas começando. Roadmap estão trabalhando nas versões para iniciantes deles e irão lançá-los logo após termino do lançamento de 2021 dos roadmaps de Backend e DevOps.
+> Esses roteiros abrangem tudo o que há para aprender sobre os caminhos listados abaixo. Não se sinta sobrecarregado, você não precisa aprender tudo no começo se estiver apenas começando. Roadmap estão trabalhando nas versões para iniciantes deles e irão lançá-los logo após termino do lançamento de 2023 dos roadmaps de Backend e DevOps.
 
 <h3 align="center"><strong>O que você acha desse roteiro ?</strong></h3>
   
 > Quais caixinhas você já validou nos seus conhecimentos ?<h2>
    </div>
 
-## Introdução ao roteiro de Desenvolvedor Web 2021 Conforme Roadmap.sh.
-  
-## Frontend, Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2021.<br>
+<h1 align="center">Roteiro de Desenvolvedor Web 2023. Roadmap.sh.</h1>
+ 
+
+<h2 align="center">Frontend, Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2023.</h2>
   <div style="display: inline_block">
   <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/frontend.png"/>
   </div> 
- 
-  ## Backend - Guia passo a passo para se tornar um desenvolvedor Backend moderno em 2021.
+
+ <h2 align="center">Backend - Guia passo a passo para se tornar um desenvolvedor Backend moderno em 2023.</h2>
  <div style="display: inline_block">
   <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/backend.png"/>
 </div>
-  
-<div style="display: inline_block"><br>
+
+  <h2 align="center"> Guia passo a passo para se tornar um Devops em 2023.</h2>
+<div style="display: inline_block">
  <h2>
-   Devops<br>
-   Guia passo a passo para se tornar um Devops, SRE ou qualquer outra função de operações em 2021.<br>
   <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/devops.png"/>
   </div> 
 
