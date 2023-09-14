@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm HeannaReis</h1>
 <h3 align="center">My passion is software developer</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="coding" width="390" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HeannaReis&label=Profile%20views&color=0e75b6&style=flat" alt="HeannaReis" /> </p>
 
@@ -9,7 +10,8 @@
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 💞️ I’m looking to collaborate on open-source projects and exciting software development initiatives.
 - 📫 You can reach me via [email](heannareis@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joel-heanna-reis/).
-
+  
+<p align="center"> <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" /></p>
 <!---
 HeannaReis/HeannaReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
