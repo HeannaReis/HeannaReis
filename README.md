@@ -3,7 +3,16 @@
 <img align="right" alt="coding" width="390" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeannaReis&label=Profile%20views&color=0e75b6&style=flat" alt="HeannaReis" /> </p>
+<br />
+
+<p align="left">
+  <a href="https://github.com/HeannaReis?tab=repositories&sort=HeannaReis">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HeannaReis"/></a>
+  <a href="https://github.com/HeannaReis?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/HeannaReis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/HeannaReis">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc?username=HeannaReis&style=for-the-badge"/></a>
+    
 
 - :brazil: I live in Brazil.
 - 👀 I’m interested in software development.
@@ -17,16 +26,15 @@ HeannaReis/HeannaReis is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-##
-<div style="display: inline_block"> Skills and Tools <br><h2>
-<p align="center">
+
+<div align="center""> 
+<p align="center">Skills and Tools <br><h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,html,css,js,react,nodejs,php,cs,dotnet,mysql,postgres,bash,linux" />
   </a>
 </p>
 </div>
-
-
+  
 <div>
   <a href="https://github.com/HeannaReis">
     <p align="center">
@@ -35,14 +43,7 @@ You can click the Preview link to take a look at your changes.
     </p>
 </div>
 
- ##    
- <div>
-   <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HeannaReis&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophy Image">
-  </p>
-  </div>
 
-##
 <div align="center">
   <p>Contatos e Redes Sociais</p>
   <p>
