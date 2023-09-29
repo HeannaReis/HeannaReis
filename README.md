@@ -18,7 +18,15 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 💞️ I’m looking to collaborate on open-source projects and exciting software development initiatives.
-- 📫 You can reach me via [email](heannareis@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/joel-heanna-reis/).
+- 📫 You can reach me on
+
+
+  <p align="left">
+    <a href="https://www.instagram.com/heannareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </p>
   
 <p align="center"> <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" /></p>
 <!---
@@ -42,18 +50,6 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeannaReis&layout=compact&langs_count=7&theme=dracula"/>
     </p>
 </div>
-
-
-<div align="center">
-  <p>Contatos e Redes Sociais</p>
-  <p>
-    <a href="https://www.instagram.com/heannareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </p>
-</div>
-
 
 ##  
 <div>
