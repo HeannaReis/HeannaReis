@@ -35,13 +35,26 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<div align="center""> 
-<p align="center">Skills and Tools <br><h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,html,css,js,react,nodejs,php,cs,dotnet,mysql,postgres,bash,linux" />
-  </a>
-</p>
+<div align="center">
+<h3>🌟 Poderes Tecnológicos Fantásticos:</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle,ai,git,github,vscode,linux,mysql,postgres" /></a></p>
 </div>
+
+
+
+<div align="center">
+<h3>🎨 Habilidades Intermediárias Incríveis:</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,cs,php,visualstudio,docker" /></a></p>
+</div>
+
+
+<div align="center">
+<h3>🛠️ Fundamentos Essenciais de Mestre:</h3>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,html,js,nodejs,react" /></a></p>
+</div>
+
+<br>
+
   
 <div>
   <a href="https://github.com/HeannaReis">
