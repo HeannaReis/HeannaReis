@@ -94,19 +94,19 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Frontend - Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2023.</h2>
 
 <p align="center">
-  <img alt="Frontend Roadmap" src="https://roadmap.sh/roadmaps/frontend.png" width="600"/>
+  <img alt="Frontend Roadmap" src="https://roadmap.sh/roadmaps/frontend.png" width="1000"/>
 </p>
 
 <h2 align="center">Backend - Guia passo a passo para se tornar um desenvolvedor Backend moderno em 2023.</h2>
 
 <p align="center">
-  <img alt="Backend Roadmap" src="https://roadmap.sh/roadmaps/backend.png" width="600"/>
+  <img alt="Backend Roadmap" src="https://roadmap.sh/roadmaps/backend.png" width="1000"/>
 </p>
 
 <h2 align="center">DevOps - Guia passo a passo para se tornar um DevOps em 2023.</h2>
 
 <p align="center">
-  <img alt="DevOps Roadmap" src="https://roadmap.sh/roadmaps/devops.png" width="600"/>
+  <img alt="DevOps Roadmap" src="https://roadmap.sh/roadmaps/devops.png" width="1000"/>
 </p>
 
 
