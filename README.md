@@ -22,13 +22,23 @@
 
 
   <p align="left">
+    <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/heannareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
+
+<div>
+  <a href="https://github.com/HeannaReis">
+    <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeannaReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeannaReis&layout=compact&langs_count=7&theme=dracula"/>
+    </p>
+</div>
+
+
   
-<p align="center"> <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" /></p>
+
 <!---
 HeannaReis/HeannaReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -55,14 +65,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-  
-<div>
-  <a href="https://github.com/HeannaReis">
-    <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeannaReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeannaReis&layout=compact&langs_count=7&theme=dracula"/>
-    </p>
-</div>
+<p align="center"> <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" /></p>
+
+<br>
 
 ##  
 <div>
@@ -86,21 +91,26 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Roteiro de Desenvolvedor Web 2023. Roadmap.sh.</h1>
  
 
-<h2 align="center">Frontend, Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2023.</h2>
-  <div style="display: inline_block">
-  <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/frontend.png"/>
-  </div> 
+<h2 align="center">Frontend - Guia passo a passo para se tornar um desenvolvedor Frontend moderno em 2023.</h2>
 
- <h2 align="center">Backend - Guia passo a passo para se tornar um desenvolvedor Backend moderno em 2023.</h2>
- <div style="display: inline_block">
-  <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/backend.png"/>
-</div>
+<p align="center">
+  <img alt="Frontend Roadmap" src="https://roadmap.sh/roadmaps/frontend.png" width="600"/>
+</p>
 
-  <h2 align="center"> Guia passo a passo para se tornar um Devops em 2023.</h2>
-<div style="display: inline_block">
- <h2>
-  <img align="center" alt="HennaReis-Backend" src="https://roadmap.sh/roadmaps/devops.png"/>
-  </div> 
+<h2 align="center">Backend - Guia passo a passo para se tornar um desenvolvedor Backend moderno em 2023.</h2>
+
+<p align="center">
+  <img alt="Backend Roadmap" src="https://roadmap.sh/roadmaps/backend.png" width="600"/>
+</p>
+
+<h2 align="center">DevOps - Guia passo a passo para se tornar um DevOps em 2023.</h2>
+
+<p align="center">
+  <img alt="DevOps Roadmap" src="https://roadmap.sh/roadmaps/devops.png" width="600"/>
+</p>
+
+
+
 
   
 Se você acha que algum roteiro pode ser melhorado, entre em contato com o criador.
