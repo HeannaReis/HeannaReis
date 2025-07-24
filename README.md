@@ -28,13 +28,7 @@
     <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </p>
 
-<div>
-  <a href="https://github.com/HeannaReis">
-    <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeannaReis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeannaReis&layout=compact&langs_count=7&theme=dracula"/>
-    </p>
-</div>
+
 
 
   
@@ -46,25 +40,21 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="center">
-<h3>🌟 Poderes Tecnológicos Fantásticos:</h3>
+<h3>🌟 Fantastic Technological Powers:</h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle,ai,git,github,vscode,linux,mysql,postgres" /></a></p>
 </div>
 
 
 
 <div align="center">
-<h3>🎨 Habilidades Intermediárias Incríveis:</h3>
+<h3>🎨 Amazing Intermediate Skills:</h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,cs,php,visualstudio,docker" /></a></p>
 </div>
 
 
 <div align="center">
-<h3>🛠️ Fundamentos Essenciais de Mestre:</h3>
+<h3>🛠️ Master Essentials:</h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,html,js,nodejs,react" /></a></p>
 </div>
 
-<br>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg" /></p>
-
-<br>
