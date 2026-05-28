@@ -1,60 +1,123 @@
-<h1 align="center">Hi 👋, I'm HeannaReis</h1>
-<h3 align="center">My passion is software developer</h3>
-<img align="right" alt="coding" width="390" src="https://media.giphy.com/media/1KrM2hhDN3dgk/giphy.gif">
+<h1 align="center">Hi 👋, I'm Joel Heanna Reis</h1>
 
+<h3 align="center">
+SAP Ariba Operations & Automation Specialist | Python | AI Integration | Workflow Optimization
+</h3>
 
-<br />
+<p align="center">
+Building enterprise automation solutions, intelligent workflows, and operational improvements through Python, AI, and SAP Ariba ecosystems.
+</p>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/HeannaReis?tab=followers">
+  <img alt="followers" title="GitHub Followers" src="https://custom-icon-badges.herokuapp.com/github/followers/HeannaReis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HeannaReis">
+  <img alt="views" title="GitHub Profile Views" src="https://komarev.com/ghpvc?username=HeannaReis&style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I work with enterprise automation, operational workflows, and applied AI solutions focused on reducing manual effort, increasing efficiency, and improving business operations reliability.
+
+With 9+ years at Stefanini, I operate in SAP Ariba environments supporting supplier lifecycle processes, operational governance, workflow optimization, onboarding operations, and intelligent automation initiatives.
+
+My experience combines Python automation, APIs, AI integration, Linux-based execution, data processing, and workflow orchestration to build scalable and reliable enterprise solutions used in real production environments.
+
+---
+
+## 🧠 What I Work With
+
+- Enterprise Workflow Automation
+- SAP Ariba SLP Operations
+- Supplier Onboarding & Governance
+- Operational Process Optimization
+- User Access & Approval Governance
+- Python Automation
+- AI & LLM Integration
+- Multimodal AI Workflows
+- CSV & Master Data Automation
+- Dashboard & Operational Analytics
+- Technical Documentation & JIRA Requests
+
+---
+
+## ⚙️ Core Technologies
 
 <p align="left">
-  <a href="https://github.com/HeannaReis?tab=repositories&sort=HeannaReis">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HeannaReis"/></a>
-  <a href="https://github.com/HeannaReis?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/HeannaReis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/HeannaReis">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc?username=HeannaReis&style=for-the-badge"/></a>
-    
+  <img src="https://skillicons.dev/icons?i=python,java,spring,linux,postgres,mysql,git,github,vscode" />
+</p>
 
-- :brazil: I live in Brazil.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning new technologies and improving my coding skills.
-- 💞️ I’m looking to collaborate on open-source projects and exciting software development initiatives.
-- 📫 You can reach me on
+---
 
+## 🤖 Automation & AI Stack
 
-  <p align="left">
-    <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="mailto:heannareis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/heannareis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.gg/HeannaReis#2337" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  </p>
+- Python
+- Selenium
+- PyAutoGUI
+- REST APIs
+- LLM Integration
+- Machine Learning
+- Multimodal AI
+- Linux Process Automation
+- CSV/Data Processing
+- Workflow Automation
 
+---
 
+## 📈 Key Contributions
 
+- Reduced a critical operational workflow from 39 minutes to 7 minutes through end-to-end Python automation
+- Automated supplier and user Master Data generation processes
+- Built AI-powered ticket classification workflows to reduce operational handling time
+- Created multimodal AI workflows for system error interpretation and structured information extraction
+- Developed automation routines for access provisioning, SSO alignment, group distribution, and approval value configuration
+- Supported successful SAP Ariba implementation and migration from legacy ERP operations
+- Automated repetitive support routines and operational maintenance activities
 
-  
+---
 
-<!---
-HeannaReis/HeannaReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🏢 Enterprise Experience
 
+- SAP Ariba SLP
+- Supplier Lifecycle Operations
+- Workflow Optimization
+- User Governance & Access Management
+- Operational Support
+- Process Automation
+- Master Data Operations
+- Catalog Maintenance
+- Technical Documentation
+- JIRA-based System Improvements
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/joel-heanna-reis-0a474334/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:heannareis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
 
 <div align="center">
-<h3>🌟 Fantastic Technological Powers:</h3>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle,ai,git,github,vscode,linux,mysql,postgres" /></a></p>
+
+### 🚀 Focus Areas
+
+`Enterprise Automation` • `SAP Ariba` • `Applied AI` • `Workflow Optimization` • `Python Automation`
+
 </div>
-
-
-
-<div align="center">
-<h3>🎨 Amazing Intermediate Skills:</h3>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,cs,php,visualstudio,docker" /></a></p>
-</div>
-
-
-<div align="center">
-<h3>🛠️ Master Essentials:</h3>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,html,js,nodejs,react" /></a></p>
-</div>
-
-
