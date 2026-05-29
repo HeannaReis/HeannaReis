@@ -85,6 +85,37 @@ My experience combines Python automation, APIs, AI integration, Linux-based exec
 
 ---
 
+## 🔧 Featured Project — CSC Roboot
+
+An intelligent automation platform built for **SAP Ariba / OTRS (Znuny)** enterprise environments, combining Selenium-based UI automation, AI classification, and multimodal workflows to eliminate manual ticket handling at scale.
+
+### 🧩 What It Does
+
+| Module | Description |
+|---|---|
+| **SAI Ticket Processor** | Captures tickets from OTRS queue, anonymizes sensitive data, classifies via AI API, and automatically updates ticket type, service, and template |
+| **CNAE Attendant** | Processes fiscal CNAE tickets by extracting images and attachments, sending to multimodal AI, and routing to pending or resolution |
+| **User Management Attendant** | Automates SAP Ariba user creation/update requests by extracting structured data from tickets and cross-referencing management hierarchy |
+| **Ticket Closer** | Batch-closes tickets using configurable message templates, including CNAE Excel-driven closures |
+| **ML Classifier** | Local fallback classifier using TF-IDF + Logistic Regression trained on historical ticket data |
+| **Execution Dashboard** | Streamlit-based analytics dashboard for monitoring bot performance, silent failures, and processing trends |
+
+### 🏗️ Architecture Highlights
+
+- **Clean separation of concerns** — domain models, interfaces, services, and orchestrators are fully decoupled
+- **Dependency Inversion** — classifiers, updaters, and loggers implement abstract interfaces (`ITicketClassifier`, `ITicketUiUpdater`, `IExecutionLogger`)
+- **Resilient WebDriver management** — automatic reconnection, session health checks, and certificate bypass handling
+- **Concurrent image processing** — `ThreadPoolExecutor` for parallel image downloads and AI submissions
+- **PII anonymization pipeline** — CPF, CNPJ, email, SSO, and personal names are anonymized before any AI call
+- **Dual classification strategy** — SAI API as primary, local ML model as automatic fallback
+- **Structured CSV audit trail** — every ticket processed is logged with initial/final state, AI response, and errors
+
+### 🛠️ Tech Stack
+
+`Python` · `Selenium` · `SAI API` · `scikit-learn` · `Streamlit` · `Pandas` · `Pillow` · `requests` · `dotenv` · `joblib`
+
+---
+
 ## 🏢 Enterprise Experience
 
 - SAP Ariba SLP
@@ -118,6 +149,6 @@ My experience combines Python automation, APIs, AI integration, Linux-based exec
 
 ### 🚀 Focus Areas
 
-`Enterprise Automation` • `SAP Ariba` • `Applied AI` • `Workflow Optimization` • `Python Automation`
+`Enterprise Automation` · `SAP Ariba` · `Applied AI` · `Workflow Optimization` · `Python Automation`
 
 </div>
